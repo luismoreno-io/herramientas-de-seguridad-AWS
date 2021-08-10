@@ -2,6 +2,14 @@
 
 ## Herramientas Ofensivas
 
+https://github.com/RhinoSecurityLabs/pacu - Pacu is an open-source AWS exploitation framework, designed for offensive security testing against cloud environments.
+https://github.com/dagrz/aws_pwn - This is a collection of horribly written scripts for performing various tasks related to penetration testing AWS
+https://github.com/carnal0wnage/weirdAAL - AWS Attack Library
+https://github.com/prevade/cloudjack - CloudJack assesses AWS accounts for subdomain hijacking vulnerabilities as a result of decoupled Route53 and CloudFront configurations
+https://github.com/MindPointGroup/cloudfrunt - CloudFrunt is a tool for identifying misconfigured CloudFront domains.
+https://github.com/disruptops/cred_scanner - A simple command line tool for finding AWS credentials in files. Optimized for use with Jenkins and other CI systems.
+
+
 Auditoria de S3:
 https://github.com/jordanpotti/AWSBucketDump
 https://github.com/gwen001/s3-buckets-finder
